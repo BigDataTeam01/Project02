@@ -15,4 +15,5 @@ version upgrade(2023.12.07)
 
 3. 프로젝트에 필요없는 OOP 파일 삭제.
 
+4. base 이외의 패키지 폴더 이름 변경 ex) PDG -> packagePDG
 
