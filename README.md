@@ -13,6 +13,6 @@ version upgrade(2023.12.07)
    
 2. 각자 class file 에 comment 를 통일된 양식으로 작성하여 업데이트함.
 
-
+3. 프로젝트에 필요없는 OOP 파일 삭제.
 
 
