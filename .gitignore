@@ -14,7 +14,7 @@ local.properties
 .loadpath
 .recommenders
 .project
-
+.classpath
 # External tool builders
 .externalToolBuilders/
 
@@ -99,7 +99,7 @@ replay_pid*
 .DS_Store
 .AppleDouble
 .LSOverride
-*.classpath
+
 
 # Icon must end with two \r
 Icon
